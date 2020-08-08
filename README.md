@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hi my name and my family name is Maksymilian Szypa 👋
 
+## Contact
+<
 <!--
 **MSZXYZDEV/MSZXYZDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
